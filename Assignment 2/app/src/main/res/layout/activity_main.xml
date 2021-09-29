@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:src="@drawable/selfie" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Taylor Yoeuth"
+        android:textColor="#3F51B5"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="56dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="0dp"
+        android:text="@string/age"
+        android:textColor="#3F51B5"
+        android:textSize="10sp" />
+
+    <TextView
+        android:layout_width="198dp"
+        android:layout_height="44dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="2dp"
+        android:layout_marginBottom="2dp"
+        android:text="@string/major"
+        android:textColor="#000000"
+        android:textSize="10sp" />
+
+
+</RelativeLayout>
