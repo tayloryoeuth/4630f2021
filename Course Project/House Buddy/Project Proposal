@@ -1,0 +1,51 @@
+Project title: House Buddy
+
+What is the problem you aim to tackle with your project?
+  The problem to tackle is the “what”, after buying a new home. What are we going to do with this empty house, what is going to fill this empty house, 
+  what will be of this place we call home. House Buddy aims to help fill your home with items that may be useful, yet aesthetically pleasing,
+  but also effectively minimizes having many tabs open for one specific item. 
+
+  We plan on addressing this issue by creating a checklist that is needed for new homeowners.
+  It includes the ability to divide the rooms into separate lists where you can add items onto the checklist. 
+  It also allows for items to be searched on different websites such as ikea, target, walmart, with the ease to save into a wishlist. 
+  After purchasing that item, the user then can check it off their list. 
+
+Why is this problem important to tackle?
+  This problem is important to tackle because a home not filled is a place we cannot call home. 
+  Assisting new homeowners in making their place feel like home, comfortable and cozy. Taking away the tedious task of cross referencing items in many tabs.
+  Reduces time wasted on mindless searches over many retailers.
+
+Who stands to benefit from this app most? (I.e., who is your expected "market")
+  Homeowners benefit the most from this app. 
+
+List other apps that have addressed the same problem (please number them for the next question)
+	Centriq - https://www.mycentriq.com/ 
+	Everything but the House - https://www.ebth.com/?ref=logo 
+	HomeGoods - https://www.homegoods.com/us/store/index.jsp 	
+	Google Keep - https://keep.google.com/ 
+
+For each app you listed above, list in what ways it is lacking (please number them correspondingly)
+	Centriq - paywall, bad UI, trouble with sign-in
+	Everything but the House - auction type purchases, old looking UI
+	HomeGoods - App only allows for checking stock inventory, Cannot change to landscape mode.
+	Google Keep - The UI makes me feel like i'm writing a word document, needs more color, needs to be more modern 
+
+For each shortcoming you have identified above, state whether you intend to address it, and (briefly) how
+	Address the bad UI by using ideas of apps with good UIs, Make it more modern and pleasing to the eye
+  Address the options of signing-in or continuing as a guest -> google sign in 
+	
+	
+	
+Your "elevator pitch" (should take no more than ~60 seconds to tell) 
+	Purchasing a home is a huge milestone for many people. The first thing people think of after purchasing a home is “we need furniture!”. Well this is where House Buddy could be perfect for you. Our application will allow you to create a list dedicated to each room in your brand new home. Within that list, you can add as many items you need to purchase for that room. House Buddy will then cross reference your item with sites for you to purchase that item! How convenient, right? Unless you want to look at six tabs on your laptop. 
+
+List any technologies you are considering for your project; compare them to alternative options, and state which one(s) you find more promising and why 
+	APIs; 	
+  IKEA - https://developer.inter.ikea.com/publish 
+  Target - https://developer.target.com/ 
+  Walmart - https://developer.walmart.com/ 
+  BestBuy - https://developer.bestbuy.com/ 
+  Amazon - https://aws.amazon.com/api-gateway
+  
+	Authentication: Google Sign-In - https://developers.google.com/identity/sign-in/android/start-integrating 
+	Database: Firebase - https://firebase.google.com/ 
