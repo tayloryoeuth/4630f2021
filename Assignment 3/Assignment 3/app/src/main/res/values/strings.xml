@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Assignment 3</string>
-
-    <!-- Strings for the Buttons! -->
-    <string name="where_i_am_from">Where I am from</string>
-    <string name="facts_about_me">Facts About Me</string>
-    <string name="investment_portfolio">Investment Portfolio</string>
-    <string name="resume">Resume</string>
-</resources>
