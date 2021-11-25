@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "1097026521280",
+    "project_id": "housebuddy-e8018",
+    "storage_bucket": "housebuddy-e8018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097026521280:android:d5ffdb073ff8a244404525",
+        "android_client_info": {
+          "package_name": "com.example.housebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097026521280-ae7oip0qlkhc88bkaa290njl6jaq2kel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7qm7liN0ilAL0IhoUql11PjsNO4VCi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097026521280-ae7oip0qlkhc88bkaa290njl6jaq2kel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097026521280-bmdj0f1f7332j2deq7tlg84gq3gcu8uu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.housebuddy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097026521280:android:b623560c74b33bd7404525",
+        "android_client_info": {
+          "package_name": "com.example.housebuddy2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097026521280-ae7oip0qlkhc88bkaa290njl6jaq2kel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7qm7liN0ilAL0IhoUql11PjsNO4VCi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097026521280-ae7oip0qlkhc88bkaa290njl6jaq2kel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097026521280-bmdj0f1f7332j2deq7tlg84gq3gcu8uu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.housebuddy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097026521280:android:629747052b6fb25c404525",
+        "android_client_info": {
+          "package_name": "com.example.housebuddyreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097026521280-ae7oip0qlkhc88bkaa290njl6jaq2kel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7qm7liN0ilAL0IhoUql11PjsNO4VCi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097026521280-ae7oip0qlkhc88bkaa290njl6jaq2kel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097026521280-bmdj0f1f7332j2deq7tlg84gq3gcu8uu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.housebuddy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097026521280:android:b19cae2552682b90404525",
+        "android_client_info": {
+          "package_name": "com.example.housebuddytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097026521280-ae7oip0qlkhc88bkaa290njl6jaq2kel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7qm7liN0ilAL0IhoUql11PjsNO4VCi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097026521280-ae7oip0qlkhc88bkaa290njl6jaq2kel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097026521280-bmdj0f1f7332j2deq7tlg84gq3gcu8uu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.housebuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
