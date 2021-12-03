@@ -1,5 +1,6 @@
 ﻿# HouseBuddyReact
-### Application: House Buddy ###
+ % Testing
+## Application: House Buddy ##
 ## Team Members: Taylor Yoeuth and Eddie Tran
 ## Mobile App Development - COMP.4630 - Fall 2021
 ## Professor Haim Levkowitz
