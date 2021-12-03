@@ -1,8 +1,4 @@
 ﻿# HouseBuddyReact
- <p align="center">
-    # HouseBuddy
-</p>
-
 ## Application: House Buddy
 ## Team Members: Taylor Yoeuth and Eddie Tran
 ## Mobile App Development - COMP.4630 - Fall 2021
