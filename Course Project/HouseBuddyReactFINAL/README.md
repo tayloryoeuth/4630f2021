@@ -25,9 +25,9 @@ IDE - Visual Studio Code is simple yet functional. Easy to learn. </br>
 Tools - Expo Go is built for React Native, Great real-time developer tool. </br>
 
 ### Launch Instructions
-Use your favorite IDE and have the HouseBuddy folder installed (Visual Studio Code Preferred).
-Install nodejs (must be LTS version): https://nodejs.org/en/download/ 
-Open up the terminal, and install necessary packages.
+Use your favorite IDE and have the HouseBuddy folder installed (Visual Studio Code Preferred). </br>
+Install nodejs (must be LTS version): https://nodejs.org/en/download/  </br>
+Open up the terminal, and install necessary packages. </br>
 Packages include (IN THIS ORDER): 
  1. npm install </br>
  2. npm install --global expo-cli </br>
