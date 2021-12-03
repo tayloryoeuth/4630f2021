@@ -10,23 +10,23 @@
 ## December 2, 2021
 
 ### Goal
- * Our project is targeted towards new homeowners who are unsure of items to buy for their newly purchased home. HouseBuddy minimizes the task of having 12 different tabs open for one specific item. In our mobile application, we made it so users can dedicate each room for certain items in that specific room. The user then will go into “Master Bedroom” which will showcase items such as lamps, dressers, etc. and then will allow the user to click on the image to bring them to the Amazon app on their phone. This allows users to have a curated list of household items without forgetting about the basic necessities a person may want in their household.
+	Our project is targeted towards new homeowners who are unsure of items to buy for their newly purchased home. HouseBuddy minimizes the task of having 12 different tabs open for one specific item. In our mobile application, we made it so users can dedicate each room for certain items in that specific room. The user then will go into “Master Bedroom” which will showcase items such as lamps, dressers, etc. and then will allow the user to click on the image to bring them to the Amazon app on their phone. This allows users to have a curated list of household items without forgetting about the basic necessities a person may want in their household.
 </br>
 
 ### Alternative Approaches
 * Programming Language - Java, Kotlin, JavaScript </br>
-IDE - Android Studio, Visual Studio Code </br>
-Tools - Expo Go </br>
+* IDE - Android Studio, Visual Studio Code </br>
+* Tools - Expo Go </br>
 	
 ### Chosen Approaches
 * Language Approach - At first, we went with Java, however, we have ultimately chosen JavaScript to be our language. </br>
-IDE - At first, we picked Android studio, but ultimately chose Visual Studio Code. </br>
-Tools - Expo Go </br>
+* IDE - At first, we picked Android studio, but ultimately chose Visual Studio Code. </br>
+* Tools - Expo Go </br>
 
 ### Why we Chose this Approach
 * Language Approach - We decided to go with JavaScript because of React Native and Expo. React Native is a framework that builds mobile apps for iOS and Android. Expo works along with React Native as a set of tools that allows for real-time debugging. We found that it is much more efficient to work with React Native than Java in Android Studio. </br>
-IDE - Visual Studio Code is simple yet functional. Easy to learn. </br>
-Tools - Expo Go is built for React Native, Great real-time developer tool. </br>
+* IDE - Visual Studio Code is simple yet functional. Easy to learn. </br>
+* Tools - Expo Go is built for React Native, Great real-time developer tool. </br>
 
 ### Launch Instructions
 * Use your favorite IDE and have the HouseBuddy folder installed (Visual Studio Code Preferred). </br>
