@@ -1,4 +1,4 @@
-# <p align="center"> HouseBuddy
+# <p align="center"> House Buddy
 </p> </br>
 <p align = "center"> <img width="200" src="https://api.freelogodesign.org/files/1c14b42504bc4e55a18bfa269de5ed71/thumb/logo_200x200.png?v=637740101650000000" alt="Material Bread logo">
 	</p> </br>
@@ -66,8 +66,7 @@
 * Project’s stages of HouseBuddy Code: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project </br>
 
 #### Database
-* Firebase </br>
-https://firebase.google.com/ </br>
+* Firebase: https://firebase.google.com/ </br>
 
 #### .apk Executable
 * Not available because we are hosting our project using react-native so works on both android and ios. Hope we do not get points taken off for this.
