@@ -29,18 +29,18 @@ Use your favorite IDE and have the HouseBuddy folder installed (Visual Studio Co
 Install nodejs (must be LTS version): https://nodejs.org/en/download/ 
 Open up the terminal, and install necessary packages.
 Packages include (IN THIS ORDER): 
-npm install </br>
-npm install --global expo-cli </br>
-npm install react-native-gesture-handler </br>
-npm install react-native-safe-area-context </br>
-npm install react-native-tab-view </br>
-npm install @react-navigation/native </br>
-npm install @react-navigation/stack </br>
-npm install @react-navigation/native-stack </br>
-npm install @react-navigation/material-top-tabs </br>
-npm install @react-navigation/bottom-tabs </br>
-npm install @react-navigation/core </br>
-npm install --save @react-native-firebase/app </br>
+ 1. npm install </br>
+ 2. npm install --global expo-cli </br>
+ 3. npm install react-native-gesture-handler </br>
+ 4. npm install react-native-safe-area-context </br>
+ 5. npm install react-native-tab-view </br>
+ 6. npm install @react-navigation/native </br>
+ 7. npm install @react-navigation/stack </br>
+ 8. npm install @react-navigation/native-stack </br>
+ 9. npm install @react-navigation/material-top-tabs </br>
+ 10. npm install @react-navigation/bottom-tabs </br>
+ 11. npm install @react-navigation/core </br>
+ 12. npm install --save @react-native-firebase/app </br>
 Once those packages are installed, you are now ready to start the application. </br>
 In your terminal, write “npm start”, once you have successfully done so, you will see an expo client which will give you a QR code to scan on your phone. </br>
 If you do not see a QR prompted, please make sure you installed the necessary packages and read the terminal log to see missing packages. </br>
