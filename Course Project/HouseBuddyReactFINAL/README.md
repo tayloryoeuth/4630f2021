@@ -11,8 +11,8 @@
 </br>
 ### Alternative Approaches
 * Programming Language - Java, Kotlin, JavaScript </br>
-* IDE - Android Studio, Visual Studio Code </br>
-* Tools - Expo Go </br>
+IDE - Android Studio, Visual Studio Code </br>
+Tools - Expo Go </br>
 	
 ### Chosen Approaches
 * Language Approach - At first, we went with Java, however, we have ultimately chosen JavaScript to be our language. </br>
