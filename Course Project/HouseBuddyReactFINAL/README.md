@@ -49,7 +49,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14. In your terminal, write “npm start”, once you have successfully done so, you will see an expo client which will give you a QR code to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; scan on your phone. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15. If you do not see a QR prompted, please make sure you installed the necessary packages and read the terminal log to see missing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; packages. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16. **Note:** In order to use this QR code the user must have Expo Go installed on your phone. It can be downloaded from the Google &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Play Store on Android or the App Store on iOS. </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17. Open the Expo Go application on your phone, and then open up your camera on your phone and scan the QR code. Make sure you have the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expo Go application open **BEFORE** scanning the QR code. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17. Open the Expo Go application on your phone, and then open up your camera on your phone and scan the QR code. Make sure &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; you have the Expo Go application open **BEFORE** scanning the QR code. </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18. If you successfully can see HouseBuddy and a login screen then you have successfully launched our application </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19. Enjoy! </br>
 
