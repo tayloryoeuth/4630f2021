@@ -1,9 +1,9 @@
 ﻿# HouseBuddyReact
-### Application: House Buddy
-### Team Members: Taylor Yoeuth and Eddie Tran
-### Mobile App Development - COMP.4630 - Fall 2021
-### Professor Haim Levkowitz
-### December 2, 2021
+## Application: House Buddy
+## Team Members: Taylor Yoeuth and Eddie Tran
+## Mobile App Development - COMP.4630 - Fall 2021
+## Professor Haim Levkowitz
+## December 2, 2021
 ### House Buddy
 
 ### Goal
@@ -52,11 +52,11 @@ Enjoy! </br>
 
 ### How to use House Buddy?
 * Once the app starts you should be prompted to login. If you have an account already, then sign in with your password and email. If not, Enter your email and password and hit “Register”, after doing so you will then be introduced to our main application. </br>
-In the Home tab you should be prompted with 9 different rooms, which all hold different items for them. In the Master Bedroom it will hold items such as a bed, dresser, bedsheets and more. You can scroll down and click on an item, which will then bring you to Amazon to purchase your item. This is continuous throughout all the rooms.</br>
-In the Favorites tab, you are able to add items onto the list. After you have purchased the item, you are allowed to delete it by clicking on the item in the list. We have not implemented a way to click on the item to bring you to Amazon to purchase it, but in the future we plan on doing so. </br>
-In the Browse tab, we planned on having a user browser to be used within the app to make shopping easier, but we will plan on doing it in the future. </br>
-In the Profile tab, you should see the email you registered with in Step 1. You are also able to logout, and resign back in.  </br>
-In the Settings tab, this would have been where we would have a contact form if there were any issues within the application. However we did not have enough time to implement this, but plan on doing so in the future. </br>
+* In the Home tab you should be prompted with 9 different rooms, which all hold different items for them. In the Master Bedroom it will hold items such as a bed, dresser, bedsheets and more. You can scroll down and click on an item, which will then bring you to Amazon to purchase your item. This is continuous throughout all the rooms.</br>
+* In the Favorites tab, you are able to add items onto the list. After you have purchased the item, you are allowed to delete it by clicking on the item in the list. We have not implemented a way to click on the item to bring you to Amazon to purchase it, but in the future we plan on doing so. </br>
+* In the Browse tab, we planned on having a user browser to be used within the app to make shopping easier, but we will plan on doing it in the future. </br>
+* In the Profile tab, you should see the email you registered with in Step 1. You are also able to logout, and resign back in.  </br>
+* In the Settings tab, this would have been where we would have a contact form if there were any issues within the application. However we did not have enough time to implement this, but plan on doing so in the future. </br>
 
 ### Source Code
 FINAL SOURCE CODE: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project/HouseBuddyReactFINAL </br>
