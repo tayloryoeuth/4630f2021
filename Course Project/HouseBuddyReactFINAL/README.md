@@ -1,7 +1,7 @@
 # <p align="center"> HouseBuddy
 </p> </br>
 <p align = "center"> <img width="200" src="https://api.freelogodesign.org/files/1c14b42504bc4e55a18bfa269de5ed71/thumb/logo_200x200.png?v=637740101650000000" alt="Material Bread logo">
-	</p>
+	</p> </br>
 ## Application: House Buddy
 ## Team Members: Taylor Yoeuth and Eddie Tran
 ## Mobile App Development - COMP.4630 - Fall 2021
