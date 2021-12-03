@@ -32,7 +32,7 @@
 * Use your favorite IDE and have the HouseBuddy folder installed (Visual Studio Code Preferred). </br>
 * Install nodejs (must be LTS version): https://nodejs.org/en/download/  </br>
 * Open up the terminal, and install necessary packages. </br>
-* Packages include (IN THIS ORDER): 
+* Packages include (IN THIS ORDER): </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. npm install </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. npm install --global expo-cli </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. npm install react-native-gesture-handler </br>
