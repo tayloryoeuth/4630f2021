@@ -29,24 +29,24 @@ Tools - Expo Go is built for React Native, Great real-time developer tool. </br>
 Install nodejs (must be LTS version): https://nodejs.org/en/download/  </br>
 Open up the terminal, and install necessary packages. </br>
 Packages include (IN THIS ORDER): 
- 1. npm install </br>
- 2. npm install --global expo-cli </br>
- 3. npm install react-native-gesture-handler </br>
- 4. npm install react-native-safe-area-context </br>
- 5. npm install react-native-tab-view </br>
- 6. npm install @react-navigation/native </br>
- 7. npm install @react-navigation/stack </br>
- 8. npm install @react-navigation/native-stack </br>
- 9. npm install @react-navigation/material-top-tabs </br>
- 10. npm install @react-navigation/bottom-tabs </br>
- 11. npm install @react-navigation/core </br>
- 12. npm install --save @react-native-firebase/app </br>
-Once those packages are installed, you are now ready to start the application. </br>
-In your terminal, write “npm start”, once you have successfully done so, you will see an expo client which will give you a QR code to scan on your phone. </br>
-If you do not see a QR prompted, please make sure you installed the necessary packages and read the terminal log to see missing packages. </br>
-Note: In order to use this QR code the user must have Expo Go installed on your phone. It can be downloaded from the Google Play Store on Android or the App Store on iOS. </br>
-Open the Expo Go application on your phone, and then open up your camera on your phone and scan the QR code. Make sure you have the Expo Go application open BEFORE scanning the QR code. </br>
-If you successfully can see HouseBuddy and a login screen then you have successfully launched our application </br>
+1. npm install </br>
+2. npm install --global expo-cli </br>
+3. npm install react-native-gesture-handler </br>
+4. npm install react-native-safe-area-context </br>
+5. npm install react-native-tab-view </br>
+6. npm install @react-navigation/native </br>
+7. npm install @react-navigation/stack </br>
+8. npm install @react-navigation/native-stack </br>
+9. npm install @react-navigation/material-top-tabs </br>
+10. npm install @react-navigation/bottom-tabs </br>
+11. npm install @react-navigation/core </br>
+12. npm install --save @react-native-firebase/app </br>
+13. Once those packages are installed, you are now ready to start the application. </br>
+14. In your terminal, write “npm start”, once you have successfully done so, you will see an expo client which will give you a QR code to scan on your phone. </br>
+15. If you do not see a QR prompted, please make sure you installed the necessary packages and read the terminal log to see missing packages. </br>
+16. **Note: In order to use this QR code the user must have Expo Go installed on your phone. It can be downloaded from the Google Play Store on Android or the App Store on iOS. </br>
+17. Open the Expo Go application on your phone, and then open up your camera on your phone and scan the QR code. Make sure you have the Expo Go application open **BEFORE scanning the QR code. </br>
+18. If you successfully can see HouseBuddy and a login screen then you have successfully launched our application </br>
 Enjoy! </br>
 
 ### How to use House Buddy?
