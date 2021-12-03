@@ -4,8 +4,8 @@
 ## Mobile App Development - COMP.4630 - Fall 2021
 ## Professor Haim Levkowitz
 ## December 2, 2021
-House Buddy
-Goal:
+### House Buddy
+### Goal:
 Our project is targeted towards new homeowners who are unsure of items to buy for their newly purchased home. HouseBuddy minimizes the task of having 12 different tabs open for one specific item. In our mobile application, we made it so users can dedicate each room for certain items in that specific room. The user then will go into “Master Bedroom” which will showcase items such as lamps, dressers, etc. and then will allow the user to click on the image to bring them to the Amazon app on their phone. This allows users to have a curated list of household items without forgetting about the basic necessities a person may want in their household.
 
 Alternative Approaches
