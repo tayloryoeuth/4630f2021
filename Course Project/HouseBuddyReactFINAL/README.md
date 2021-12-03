@@ -1,4 +1,5 @@
 ﻿# HouseBuddyReact
+ <center>Centered text</center>
 ## Application: House Buddy
 ## Team Members: Taylor Yoeuth and Eddie Tran
 ## Mobile App Development - COMP.4630 - Fall 2021
