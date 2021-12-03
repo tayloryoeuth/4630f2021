@@ -8,7 +8,7 @@
 
 ### Goal
   Our project is targeted towards new homeowners who are unsure of items to buy for their newly purchased home. HouseBuddy minimizes the task of having 12 different tabs open for one specific item. In our mobile application, we made it so users can dedicate each room for certain items in that specific room. The user then will go into “Master Bedroom” which will showcase items such as lamps, dressers, etc. and then will allow the user to click on the image to bring them to the Amazon app on their phone. This allows users to have a curated list of household items without forgetting about the basic necessities a person may want in their household.
-
+</br>
 ### Alternative Approaches
 Programming Language - Java, Kotlin, JavaScript
 IDE - Android Studio, Visual Studio Code
@@ -29,41 +29,41 @@ Use your favorite IDE and have the HouseBuddy folder installed (Visual Studio Co
 Install nodejs (must be LTS version): https://nodejs.org/en/download/ 
 Open up the terminal, and install necessary packages.
 Packages include (IN THIS ORDER): 
-npm install
-npm install --global expo-cli
-npm install react-native-gesture-handler
-npm install react-native-safe-area-context
-npm install react-native-tab-view
-npm install @react-navigation/native 
-npm install @react-navigation/stack
-npm install @react-navigation/native-stack
-npm install @react-navigation/material-top-tabs
-npm install @react-navigation/bottom-tabs
-npm install @react-navigation/core
-npm install --save @react-native-firebase/app
-Once those packages are installed, you are now ready to start the application.
-In your terminal, write “npm start”, once you have successfully done so, you will see an expo client which will give you a QR code to scan on your phone. 
-If you do not see a QR prompted, please make sure you installed the necessary packages and read the terminal log to see missing packages. 
-Note: In order to use this QR code the user must have Expo Go installed on your phone. It can be downloaded from the Google Play Store on Android or the App Store on iOS. 
-Open the Expo Go application on your phone, and then open up your camera on your phone and scan the QR code. Make sure you have the Expo Go application open BEFORE scanning the QR code. 
-If you successfully can see HouseBuddy and a login screen then you have successfully launched our application
-Enjoy!
+npm install </br>
+npm install --global expo-cli </br>
+npm install react-native-gesture-handler </br>
+npm install react-native-safe-area-context </br>
+npm install react-native-tab-view </br>
+npm install @react-navigation/native </br>
+npm install @react-navigation/stack </br>
+npm install @react-navigation/native-stack </br>
+npm install @react-navigation/material-top-tabs </br>
+npm install @react-navigation/bottom-tabs </br>
+npm install @react-navigation/core </br>
+npm install --save @react-native-firebase/app </br>
+Once those packages are installed, you are now ready to start the application. </br>
+In your terminal, write “npm start”, once you have successfully done so, you will see an expo client which will give you a QR code to scan on your phone. </br>
+If you do not see a QR prompted, please make sure you installed the necessary packages and read the terminal log to see missing packages. </br>
+Note: In order to use this QR code the user must have Expo Go installed on your phone. It can be downloaded from the Google Play Store on Android or the App Store on iOS. </br>
+Open the Expo Go application on your phone, and then open up your camera on your phone and scan the QR code. Make sure you have the Expo Go application open BEFORE scanning the QR code. </br>
+If you successfully can see HouseBuddy and a login screen then you have successfully launched our application </br>
+Enjoy! </br>
 
 ### How to use House Buddy?
-Once the app starts you should be prompted to login. If you have an account already, then sign in with your password and email. If not, Enter your email and password and hit “Register”, after doing so you will then be introduced to our main application. 
-In the Home tab you should be prompted with 9 different rooms, which all hold different items for them. In the Master Bedroom it will hold items such as a bed, dresser, bedsheets and more. You can scroll down and click on an item, which will then bring you to Amazon to purchase your item. This is continuous throughout all the rooms.
-In the Favorites tab, you are able to add items onto the list. After you have purchased the item, you are allowed to delete it by clicking on the item in the list. We have not implemented a way to click on the item to bring you to Amazon to purchase it, but in the future we plan on doing so.
-In the Browse tab, we planned on having a user browser to be used within the app to make shopping easier, but we will plan on doing it in the future.
-In the Profile tab, you should see the email you registered with in Step 1. You are also able to logout, and resign back in. 
-In the Settings tab, this would have been where we would have a contact form if there were any issues within the application. However we did not have enough time to implement this, but plan on doing so in the future. 
+Once the app starts you should be prompted to login. If you have an account already, then sign in with your password and email. If not, Enter your email and password and hit “Register”, after doing so you will then be introduced to our main application. </br>
+In the Home tab you should be prompted with 9 different rooms, which all hold different items for them. In the Master Bedroom it will hold items such as a bed, dresser, bedsheets and more. You can scroll down and click on an item, which will then bring you to Amazon to purchase your item. This is continuous throughout all the rooms.</br>
+In the Favorites tab, you are able to add items onto the list. After you have purchased the item, you are allowed to delete it by clicking on the item in the list. We have not implemented a way to click on the item to bring you to Amazon to purchase it, but in the future we plan on doing so. </br>
+In the Browse tab, we planned on having a user browser to be used within the app to make shopping easier, but we will plan on doing it in the future. </br>
+In the Profile tab, you should see the email you registered with in Step 1. You are also able to logout, and resign back in.  </br>
+In the Settings tab, this would have been where we would have a contact form if there were any issues within the application. However we did not have enough time to implement this, but plan on doing so in the future. </br>
 
 ### Source Code
-FINAL SOURCE CODE: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project/HouseBuddyReactFINAL
-Project’s stages of HouseBuddy Code: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project
+FINAL SOURCE CODE: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project/HouseBuddyReactFINAL </br>
+Project’s stages of HouseBuddy Code: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project </br>
 
 ### Database
-Firebase
-https://firebase.google.com/
+Firebase </br>
+https://firebase.google.com/ </br>
 
 ### .apk Executable
 Not available because we are hosting our project using react-native so works on both android and ios. Hope we do not get points taken off for this.
